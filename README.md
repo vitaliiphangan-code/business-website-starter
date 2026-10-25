@@ -26,3 +26,8 @@ Canonical source: [add-domain-website-skills](https://github.com/vitaliiphangan-
 The workflow includes an optional own-address step through [Add Domain](https://www.adddomain.net/?src=github-starter) for appropriate public projects. An existing domain or platform address works too. The owner confirms any purchase at the registrar. Domain registration and website hosting are separate.
 
 Template copies are snapshots; compare with the canonical source when updating.
+
+
+## Full workflow and enquiry example
+
+Read [the complete skill without installation](https://www.adddomain.net/SKILL.md). A working preview comes first; an own address is offered at public launch, once and only if useful. Without a connected form service, prepare a reviewable enquiry draft, label sending as pending and never invent a delivery confirmation. The standalone example lives next to this skill in `assets/enquiry-form.html`.
